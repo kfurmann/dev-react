@@ -1,0 +1,119 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "romain",
+      "last": "hoogmoed"
+    },
+    "favorite": true,
+    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "location": {
+      "street": "1861 jan pieterszoon coenstraat",
+      "city": "maasdriel",
+      "state": "zeeland",
+      "postcode": 69217
+    },
+    "email": "romain.hoogmoed@example.com",
+    "login": {
+      "username": "lazyduck408",
+      "password": "jokers",
+      "salt": "UGtRFz4N",
+      "md5": "6d83a8c084731ee73eb5f9398b923183",
+      "sha1": "cb21097d8c430f2716538e365447910d90476f6e",
+      "sha256": "5a9b09c86195b8d8b01ee219d7d9794e2abb6641a2351850c49c309f1fc204a0"
+    },
+    "dob": "1983-07-14 07:29:45",
+    "registered": "2010-09-24 02:10:42",
+    "phone": "(656)-976-4980",
+    "cell": "(065)-247-9303",
+    "id": {
+      "name": "BSN",
+      "value": "04242023"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    },
+    "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "vincent",
+      "last": "lee"
+    },
+    "favorite": false,
+    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "location": {
+      "street": "8889 broadway avenue",
+      "city": "wellington",
+      "state": "taranaki",
+      "postcode": 96399
+    },
+    "email": "vincent.lee@example.com",
+    "login": {
+      "username": "heavyduck856",
+      "password": "lawman",
+      "salt": "DcMDADgI",
+      "md5": "640ae0c52f569a3a677dcce01cf23d45",
+      "sha1": "f451e00c7ee8f65e22ca6a4fdb56286493a34908",
+      "sha256": "5b47fb4bd3bc58e71e336de1c6ebeda0261a0cf3f9a71748884e83b37ead0f74"
+    },
+    "dob": "1981-01-24 02:12:23",
+    "registered": "2002-06-17 03:55:53",
+    "phone": "(073)-783-1568",
+    "cell": "(452)-775-3015",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/12.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    },
+    "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "monsieur",
+      "first": "nolhan",
+      "last": "boyer"
+    },
+    "favorite": true,
+    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "location": {
+      "street": "8905 montée saint-barthélémy",
+      "city": "froideville",
+      "state": "jura",
+      "postcode": 6692
+    },
+    "email": "nolhan.boyer@example.com",
+    "login": {
+      "username": "purplebird909",
+      "password": "titi",
+      "salt": "00fpF3AB",
+      "md5": "400c66875ecc64171012578be3627d8b",
+      "sha1": "e58112d6e4a950ea695b4359bdae575f506be6c4",
+      "sha256": "9ee711927262b1640cfe997b430016bfb634ddf1e3cca661bcf86d1ae428d1ee"
+    },
+    "dob": "1979-08-26 22:16:37",
+    "registered": "2015-05-31 10:01:21",
+    "phone": "(154)-969-2720",
+    "cell": "(222)-806-2377",
+    "id": {
+      "name": "AVS",
+      "value": "756.PEAU.LCEG.03"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/18.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    },
+    "nat": "CH"
+  }
+]
