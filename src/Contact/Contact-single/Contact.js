@@ -13,14 +13,12 @@ class Contact extends React.Component {
   }
 
   changeFavorite() {
-
-    console.log('change');
     this.setState({
       user: Object.assign(this.state.user, {
         favorite: !this.state.user.favorite
       })
     }, () => {
-      console.log('123123', this.state);
+      //
     });
   };
 
@@ -30,11 +28,19 @@ class Contact extends React.Component {
 
     return (
         <div className="contact box">
-          <img src={user.picture.medium}/>
-          <p>Hi, meet <b>{user.name.first.toLocaleUpperCase()}</b> :)</p>
-          <p>Call them: <b>{user.phone}</b> or <b>{user.cell}</b></p>
-          <p>Email them: <b>{user.email}</b></p>
-          <p>Make a surprise party here: <b>{user.location.street}</b></p>
+          <div className="d-flex a-items-start">
+            <img src={user.picture.medium}/>
+            <div style={{
+              flex: '1 1 auto',
+              textAlign: 'right'
+            }}>
+              <h3 style={{
+                margin: 0
+              }}>{user.name.first.toLocaleUpperCase()}</h3>
+              <p><b>{user.phone}</b></p>
+            </div>
+          </div>
+          <p><b>{user.email}</b></p>
           <p className="tags">{user.tags.map((tag) => {
             return <b key={tag}>#{tag} </b>
           })}

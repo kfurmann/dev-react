@@ -7,7 +7,12 @@
       "last": "hoogmoed"
     },
     "favorite": true,
-    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "tags": [
+      "crazy",
+      "insane",
+      "criminal",
+      "festizio"
+    ],
     "location": {
       "street": "1861 jan pieterszoon coenstraat",
       "city": "maasdriel",
@@ -46,7 +51,10 @@
       "last": "lee"
     },
     "favorite": false,
-    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "tags": [
+      "insane",
+      "festizio"
+    ],
     "location": {
       "street": "8889 broadway avenue",
       "city": "wellington",
@@ -68,7 +76,7 @@
     "cell": "(452)-775-3015",
     "id": {
       "name": "",
-      "value": null
+      "value": 123412341234
     },
     "picture": {
       "large": "https://randomuser.me/api/portraits/men/12.jpg",
@@ -85,7 +93,11 @@
       "last": "boyer"
     },
     "favorite": true,
-    "tags": ["crazy", "insane", "criminal", "festizio"],
+    "tags": [
+      "crazy",
+      "insane",
+      "festizio"
+    ],
     "location": {
       "street": "8905 montée saint-barthélémy",
       "city": "froideville",
@@ -115,5 +127,133 @@
       "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
     },
     "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "eeli",
+      "last": "hietala"
+    },
+    "favorite": false,
+    "tags": [
+      "insane",
+      "festizio"
+    ],
+    "location": {
+      "street": "7721 otavalankatu",
+      "city": "vesanto",
+      "state": "uusimaa",
+      "postcode": 48823
+    },
+    "email": "eeli.hietala@example.com",
+    "login": {
+      "username": "redcat876",
+      "password": "painting",
+      "salt": "Nv6OWAHj",
+      "md5": "ea3c38c8919a157310494bf34215f26e",
+      "sha1": "c01c7063b36e6c07c71660c8684c789cad4152ca",
+      "sha256": "17e5055a4356ad1ceda8ddb4b947f25cd4ed6192bf422abd472d7522784f6309"
+    },
+    "dob": "1945-11-15 21:44:03",
+    "registered": "2016-04-14 03:09:56",
+    "phone": "07-485-115",
+    "cell": "045-042-32-96",
+    "id": {
+      "name": "HETU",
+      "value": "1445-027S"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/26.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    },
+    "nat": "FI"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "anatole",
+      "last": "david"
+    },
+    "favorite": true,
+    "tags": [
+      "crazy",
+      "insane",
+      "festizio"
+    ],
+    "location": {
+      "street": "1684 rue de l'abbé-patureau",
+      "city": "bordeaux",
+      "state": "aveyron",
+      "postcode": 32850
+    },
+    "email": "anatole.david@example.com",
+    "login": {
+      "username": "blacktiger109",
+      "password": "sammy",
+      "salt": "owvNdnHJ",
+      "md5": "261c162a7e1ed3dbeaff89a7aa97a1cf",
+      "sha1": "874c9118fabe0a45d7e13233d15bfe0f6041516e",
+      "sha256": "73ba04e279e826b75254195926acd1185682b9d42363750fbffe655cfbb9c713"
+    },
+    "dob": "1956-06-17 12:52:25",
+    "registered": "2011-05-27 11:50:28",
+    "phone": "01-31-52-28-42",
+    "cell": "06-84-18-33-92",
+    "id": {
+      "name": "INSEE",
+      "value": "156537271170 14"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    },
+    "nat": "FR"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "aria",
+      "last": "williams"
+    },
+    "favorite": true,
+    "tags": [
+      "crazy",
+      "insane",
+      "festizio"
+    ],
+    "location": {
+      "street": "8963 george street",
+      "city": "christchurch",
+      "state": "auckland",
+      "postcode": 29400
+    },
+    "email": "aria.williams@example.com",
+    "login": {
+      "username": "silvermeercat353",
+      "password": "3232",
+      "salt": "n3Z5lALG",
+      "md5": "9f4a92b2eeb6207c79af9ae52d358a1b",
+      "sha1": "54e6fe71aee790d67a6ba04eb7e042d2c47026d1",
+      "sha256": "170ecf759cf618278820462aa665ab4bb99e19c849735be562a3d5365f095cd8"
+    },
+    "dob": "1961-03-10 21:22:55",
+    "registered": "2010-07-28 15:04:33",
+    "phone": "(302)-300-4847",
+    "cell": "(580)-429-1403",
+    "id": {
+      "name": "",
+      "value": 983082358739475
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/6.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "NZ"
   }
 ]
